@@ -62,7 +62,16 @@ body {
   left: 0;
   margin: auto 0;
  }
-
+.one {
+  position: absolute;
+  width: 15px;
+  height: 3px;
+  background: #111111;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  margin: auto 0;
+ }
 .center {
    width: 10px;
    height: 10px;
